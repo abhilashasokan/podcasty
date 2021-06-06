@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ripple xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools2="http://schemas.android.com/tools"
+    android:color="@color/ButtonGradientPrimary"
+    tools2:targetApi="LOLLIPOP">
+    <item>
+        <shape android:shape="rectangle">
+            <gradient
+                android:endColor="@color/ButtonGradientSecondary"
+                android:startColor="@color/ButtonGradientPrimary"
+                android:type="linear" />
+        </shape>
+    </item>
+</ripple>

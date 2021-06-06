@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="purple">#431B3F</color>
+    <color name="orange">#FF5500</color>
+
+    <color name="ButtonGradientPrimary">#0093E9</color>
+    <color name="ButtonGradientSecondary">#80D0C7</color>
+</resources>

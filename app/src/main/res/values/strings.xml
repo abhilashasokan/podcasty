@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Theme</string>
+    <string name="logo">Logo</string>
+    <string name="todo">TODO</string>
+    <string name="music_is_keeping_you_alive_with_a_good_chemistry">Music is keeping you <br/>Alive with a good chemistry</string>
+    <string name="get_started">Get Started</string>
+</resources>
